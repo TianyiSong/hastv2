@@ -4,8 +4,9 @@
 # but you can also edit it by hand.
 
 standard-app-packages
-autopublish
-insecure
 mizzao:bootstrap-3
-chuangbo:marked
+rexzh0u:kramed
+mrt:deb
+coffeescript
+sashko:katex
 
